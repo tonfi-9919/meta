@@ -1,0 +1,16 @@
+{
+  "description": "This is NFT description",
+  "name": "Voucher Duck",
+  "image": "https://cdn.vox-cdn.com/thumbor/lBBEXUwMy6qLZnIkm_lSSw0g0DY=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23603505/VRG_Illo_5265_M_Li_NFT_explainer.jpg",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "4"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "machine"
+    }
+  ],
+  "content_url": "https://www.google.com/"
+}
