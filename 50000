@@ -1,0 +1,16 @@
+{
+  "description": "This is NFT description",
+  "name": "Monkey Doctor",
+  "image": "https://www.artnews.com/wp-content/uploads/2022/01/unnamed-2.png?w=631",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "4"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "machine"
+    }
+  ],
+  "content_url": "https://www.google.com/"
+}
