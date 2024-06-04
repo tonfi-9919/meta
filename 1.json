@@ -1,0 +1,16 @@
+{
+  "description": "This is NFT description",
+  "name": "Monkey Junior",
+  "image": "https://img.freepik.com/free-vector/hand-drawn-nft-style-ape-illustration_23-2149622021.jpg",
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "4"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "machine"
+    }
+  ],
+  "content_url": "https://www.google.com/"
+}
